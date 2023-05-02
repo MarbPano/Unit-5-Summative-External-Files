@@ -1,0 +1,26 @@
+===-----Business Expenses-----===
+
+---Operating Costs---
+Rent: $25.0
+Accounting and Legal Fees: $17000000.0
+Bank Charges: $1200.0
+Sales Fees: $69324728.0
+Marketing Fees: $12000000000.0
+Officce Supplies: $2.0
+Repairs: $2.0
+Utilities: $7.0
+
+---Employees Salaries---
+marb: $69.0
+tyler: $69.0
+codie: $69.0
+
+---Product Costs---
+sulol: $1200.0
+bottle: $21345.0
+-----REVENUE-----
+1700.0
+-----Operating Expenses-----
+12086348716.0
+-----NET INCOME-----
+-12086347016.0
